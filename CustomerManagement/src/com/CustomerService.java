@@ -27,6 +27,7 @@ import com.google.gson.JsonParser;
  	public String readCustomer() {
  	return CustomerObj.readCustomer();
  	//fgg
+ 	//hgh
  		
  	}
  	
