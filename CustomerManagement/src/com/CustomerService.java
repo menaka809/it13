@@ -26,6 +26,7 @@ import com.google.gson.JsonParser;
  	@Produces(MediaType.TEXT_HTML)
  	public String readCustomer() {
  	return CustomerObj.readCustomer();
+ 	//fgg
  		
  	}
  	
